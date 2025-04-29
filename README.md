@@ -13,4 +13,18 @@ The data has both numerical and categorical columns.
 The data is positively skewed and the missing values will be filled with the median and for the categorical variable with the most frequent
 ### 1.2.3 Visualization
 Making recommendations for how the business should move forward with the new aviation opportunity. 
+Below is a linegraph showing the counts of aciident and occurrence
+# 1.3 Recommendation and findings
+The accidents are the going down over the number of years and it’s a good time for the company to venture into the aviation industry
+The company aircraft operations should be lowest during the VMC condition and therefore operate highly during the other weather condition
+The cessen,piper and Beech are likely to cause accidents and the company should invest in the other makes
+As the number of engines increases the injury severity increases and the Boeing has the lowest fatality at category one and therefore the company should invest in Boeing. 
+Boeing also has the highest total of uninjured at 89,051 and the company should invest in Boeing.
+![image](https://github.com/user-attachments/assets/e52363ba-185a-4c79-8d44-7b9cba162ad9)
+
+
 # 1.3 Conclusion
+The company should invest in Boeing because as the number of engines increases the injury severity increases and the Boeing has the lowest fatality at category one. Boeing also has the highest total of uninjured at 89,051
+The company operation should be lowest during the VMC condition
+![image](https://github.com/user-attachments/assets/215e0953-d9e8-4b14-a884-495facedcdb8)
+
